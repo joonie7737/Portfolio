@@ -83,6 +83,12 @@
  * 내용 : 시계열 데이터 전처리, ARIMA, TBATS, ETS 알고리즘을 활용한 예측
  * 기술 : 언어 - R / 툴 - RStudio
 
+##### [생활인구 및 유출인구 현황 시각화](Children_Timeseries/readme.md)
+ * 개인 프로젝트(경남연구원 경상남도 빅데이터센터)
+ * 수행 기간 : 2022.09
+ * 내용 : 데이터 전처리, Matplotlib 패키지를 이용한 차트 구현
+ * 기술 : 언어 - Python / 툴 - VSCode
+ 
 ##### [대구광역시 불법주정차 단속차량 최적경로 선정](Reinforcement_routes/readme.md)
  * 팀 프로젝트 (6인)
  * 수행 기간 : 2022.07 ~ 2022.08 (약 3주)
