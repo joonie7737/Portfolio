@@ -12,6 +12,7 @@
 
 ##### 첨부
  * 데이터 보안상 데이터파일은 첨부하지 못한 점 양해 부탁드립니다.
+ * [간략보고서(PDF)](Report.pdf)
  * [생활인구 전처리 및 시각화(ipynb)](Livingpop.ipynb)
  * [유출입인구 전처리 및 시각화(ipynb)](Pop_moving.ipynb)
- * [간략보고서(PDF)](Report.pdf)
+
