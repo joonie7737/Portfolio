@@ -39,7 +39,7 @@
 
 #### 데이터 분석, 시각화, 통계분석 및 모델링(중급)
  * 언어 : Python, R
- * Tools : Colab, Jupyter Notebook, VSCode, RStudio, [Tableau](https://public.tableau.com/app/profile/seokjun.han/viz/Worldsuicidechart19852015/1)
+ * Tools : Colab, Jupyter Notebook, VSCode, RStudio, [**Tableau**](https://public.tableau.com/app/profile/seokjun.han/viz/Worldsuicidechart19852015/1)
 
 #### 데이터베이스 관리(초급)
  * 언어 : SQL
