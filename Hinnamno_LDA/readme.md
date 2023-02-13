@@ -21,5 +21,5 @@
     * 모델링 결과에 따른 뉴스데이터 키워드의 비율을 참고하여 토픽 파악.
 
 ##### 첨부
- 1. [분석보고서(PDF)](Hinnamno_LDA/보고서.pdf)
- 2. [Code(ipynb)](Hinnamno_LDA/code.ipynb)
+ 1. [분석보고서(PDF)](보고서.pdf)
+ 2. [Code(ipynb)](code.ipynb)
