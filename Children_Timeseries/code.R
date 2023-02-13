@@ -260,7 +260,7 @@ data.frame(tslm = tslm_tscv_residual_rmse,
            tbats = tbats_tscv_residual_rmse,
            tbats_box = tbats_tscv_residual_rmse_box) #tbats
 
- ###최종 모델###
+ ###최종 모델(TBATS)###
 df_ts %>% tbats(use.trend = TRUE, seasonal.periods = 12, use.box.cox = TRUE) %>% 
   forecast(h = 12, biasadj = TRUE) %>% autoplot() 
 
