@@ -42,7 +42,7 @@
 #### 데이터베이스 관리(초급)
  * 언어 : Oracle, PostgreSQL
 
-#### 웹 프로그래밍(입문)
+#### [웹 프로그래밍(입문)](https://joonie7737.github.io/My_brand_new_web/index.html)
  * 언어 : HTML, CSS, JavaScript
 
 ***
