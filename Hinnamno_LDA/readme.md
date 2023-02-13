@@ -22,4 +22,4 @@
 
 ##### 첨부
  1. 분석보고서(PDF)
- 2. Code(ipynb)
+ 2. [Code(ipynb)](Hinnamno_LDA/code.ipynb)
