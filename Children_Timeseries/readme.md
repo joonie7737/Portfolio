@@ -19,4 +19,4 @@
     * 생성된 모델 간 Cross Validation 적용, RMSE를 기준으로 최적 예측 모델 선정
 
 ##### 첨부
- * [Code(ipynb)](code.R)
+ * [Code(R)](code.R)
