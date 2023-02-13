@@ -37,5 +37,5 @@
     * 활용 방안
     
 ##### 첨부
- 1. [결과보고서(PDF)]
- 2. [상세보고서(hwp)]
+ 1. [결과보고서(PDF)](Report_presentation.pdf)
+ 2. [상세보고서(hwp)](Final_report.hwp)
