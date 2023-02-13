@@ -12,5 +12,7 @@
 
 
 ##### 첨부
- 1. [분석보고서(PDF)](보고서.pdf)
- 2. [Code(ipynb)](code.ipynb)
+ 1. [분석보고서(PDF)](Child_Infrastructure/Report.pdf)
+ 2. [간략보고서(PDF)](Child_Infrastructure/Report_brief.pdf)
+ 3. [API 이용 데이터 추출 code](Child_Infrastructure/API_extraction.ipynb)
+ 4. [Geocoding code](Child_Infrastructure/Code_for_geocoding.ipynb)
